@@ -1,5 +1,8 @@
 dcgfhgghg
-initial commit
 dbfsbvsdjvbdfj
 gfghvnvnv
+<<<<<<< HEAD
 magi
+=======
+sdfghjklkjhgfdfghjklnbvcvbnm,
+>>>>>>> 85854196c2784d311a8aeeeb2284580e877395af
